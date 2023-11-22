@@ -1,0 +1,43 @@
+html{
+
+ background-color: green;
+ color: red;
+ text-align: center;
+ border:12px dotted red;
+}
+h1{
+color: blue;
+}
+img{
+border:solid red 2px;
+ border-radius:2500px;
+height: 150px;
+width: 150px;
+}
+
+
+li{
+  column-rule-color: pink;
+color: yellow;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+
+}
+
+a{
+  color: indigo;
+  font-size: 25px;
+}
+p{
+    font-size:25px;
+      font-weight: bolder;
+  font-family: sans-serif;
+  font-variant: inherit;
+  font-size-adjust: none;
+text unicode-range: auto;
+text-decoration: underline;
+
+
+
+}
